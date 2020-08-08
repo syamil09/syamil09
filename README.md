@@ -3,7 +3,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=syamil09&show_icons=true)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently student at SMKN 24 Jakarta
 - 🌱 I’m currently learning Laravel & VueJs
